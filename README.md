@@ -2,5 +2,5 @@
 
 I'm a very passionate Computer Engeneering Student @ IPLeiria!
 
-- 🔭 I’m currently working on [Projeta](https://github.com/DanielCheygaz/projeta), a cinema managing program.
+- 🔭 I’m currently working on a passion project called [RodaErrada](https://github.com/DanielCheygaz/RodaErrada).
 - 🌱 I’m currently learning everything related to Computer Engeneering
